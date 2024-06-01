@@ -1,0 +1,97 @@
+.navbar__content {
+  display: flex;
+  align-items: center;
+  padding-bottom: 42.26px;;
+}
+
+.navbar__icon-block {
+  display: flex;
+  align-items: center;
+}
+
+.navbar__select-block {
+  margin-right: 810px;
+}
+
+.navbar__selected {
+  border: none;
+  color: #000;
+  color: rgb(38, 38, 38);
+  font-family: Proxima Nova;
+  font-size: 20px;
+  font-weight: 400;
+  line-height: -1px;
+  letter-spacing: 0%;
+  text-align: left;
+  outline: none;
+  margin-right: 10.15px;
+}
+
+.navbar {
+  padding-top: 26.36px;
+  padding-left: 95px;
+  padding-right: 89px;
+}
+
+.navbar__link {
+  margin-right: 36px;
+}
+
+.navbar__items {
+  margin-right: 32px;
+  color: rgb(38, 38, 38);
+  font-family: Proxima Nova;
+  font-size: 20px;
+  font-weight: 400;
+  line-height: -1px;
+  letter-spacing: 0%;
+  text-align: left;
+}
+
+.navbar__price {
+  margin-right: 6.56px;
+  color: rgb(38, 38, 38);
+  font-family: Proxima Nova;
+  font-size: 20px;
+  font-weight: 400;
+  line-height: -1px;
+  letter-spacing: 0%;
+  text-align: left;
+  opacity: 0.5;
+}
+
+.navbar__search-btn {
+  border: none;
+  outline: none;
+  background: none;
+}
+
+.navbar__items {
+  color: rgb(38, 38, 38);
+  font-family: Poppins;
+  font-size: 24px;
+  font-weight: 500;
+  line-height: 36px;
+  letter-spacing: 0%;
+  text-align: left;
+
+  &:hover {
+    font-family: Poppins;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 36px;
+    letter-spacing: 0%;
+    text-align: left;
+    color: rgb(64, 191, 255);
+  }
+}
+
+.navbar__special {
+  display: flex;
+  align-items: center;
+  padding-bottom: 33.49px;
+}
+
+.navbar__logo{
+    margin-right: 490px;
+}

@@ -1,0 +1,146 @@
+.footer {
+  background: rgb(188, 221, 254);
+  padding-top: 149.62px;
+  padding-left: 134px;
+  padding-right: 154.03px;
+  padding-bottom: 54.6px;
+}
+
+.footer__primary {
+  display: flex;
+  justify-content: space-between;
+  padding-bottom: 71px;
+}
+
+.footer__logo-text {
+  width: 421px;
+  color: rgb(34, 38, 42);
+  font-family: Proxima Nova;
+  font-size: 12px;
+  font-weight: 400;
+  line-height: -1px;
+  letter-spacing: 0%;
+  text-align: left;
+  margin-right: 16px;
+}
+
+.footer__social-2_title {
+  color: rgb(34, 38, 42);
+  font-family: Poppins;
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 27px;
+  letter-spacing: 0%;
+  text-align: left;
+  margin-bottom: 19.27px;
+}
+
+.footer__social-2_text {
+  color: rgb(34, 38, 42);
+  font-family: Proxima Nova;
+  font-size: 12px;
+  font-weight: 400;
+  line-height: -1px;
+  letter-spacing: 0%;
+  text-align: left;
+  margin-bottom: 32.73px;
+}
+
+.footer__facebook {
+  margin-right: 40px;
+
+  &:hover {
+    scale: 1.1;
+    transition: 0.2s;
+  }
+}
+
+.footer__twitter:hover {
+  scale: 1.1;
+  transition: 0.2s;
+}
+
+.footer__social-3_title {
+  color: rgb(34, 38, 42);
+  font-family: Poppins;
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 27px;
+  letter-spacing: 0%;
+  text-align: left;
+  margin-bottom: 19.27px;
+}
+
+.footer__social-3_text {
+  color: rgb(34, 38, 42);
+  font-family: Poppins;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 21px;
+  letter-spacing: 0%;
+  text-align: left;
+}
+
+.footer__secondary {
+  display: flex;
+  justify-content: space-between;
+  padding-bottom: 63.42px;
+}
+
+.footer__sub-title {
+  color: rgb(34, 38, 42);
+  font-family: Poppins;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 27px;
+  letter-spacing: 0%;
+  text-align: left;
+  margin-bottom: 30px;
+}
+
+.footer__link {
+  color: rgb(38, 38, 38);
+  font-family: Poppins;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 21px;
+  letter-spacing: 0%;
+  text-align: left;
+  margin-bottom: 15px;
+
+  &:hover {
+    opacity: 0.7;
+  }
+}
+
+.footer__hr {
+  background: rgb(246, 247, 248);
+  height: 3px;
+  border: none;
+  margin-bottom: 31px;
+}
+
+.footer__card_block {
+  padding-left: 975px;
+}
+
+.footer__card-title {
+  color: rgb(34, 38, 42);
+  font-family: Poppins;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 27px;
+  letter-spacing: 0%;
+  text-align: left;
+  margin-bottom: 30px;
+  padding-left: 70px;
+}
+
+.footer__card-img {
+  margin-left: 20px;
+
+  &:hover {
+    scale: 1.1;
+    transition: 0.2s;
+  }
+}

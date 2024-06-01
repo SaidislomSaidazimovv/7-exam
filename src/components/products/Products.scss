@@ -1,0 +1,105 @@
+.products__main {
+  width: 301px;
+  border: 3px solid rgb(246, 247, 248);
+  border-radius: 10px;
+  padding: 20px;
+  text-align: center;
+  
+  &:hover {
+    scale: 1.02;
+    transition: 0.2s;
+  }
+}
+
+// .products__btn{
+//   margin-left: -80px;
+// }
+
+.products__btn-lk{
+  margin-right: 20px;
+}
+
+.products__btn-lk{
+  border: none;
+  outline: none;
+  background: none;
+}
+
+.products__btn{
+  border: none;
+  outline: none;
+  background: none;
+}
+
+.products__primary{
+  margin-top: 10px;
+}
+
+.products__image {
+  width: 201px;
+  height: 201px;
+  object-fit: contain;
+  padding-left: 5px;
+
+  &:hover {
+    background: rgb(255, 255, 255);
+    opacity: 0.1;
+    transition: 0.2s;
+  }
+}
+
+.product__dollar {
+  color: rgb(64, 191, 255);
+  font-family: Poppins;
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 180%;
+  letter-spacing: 0.5px;
+  text-align: left;
+  margin-right: 13.14px;
+}
+
+.product__spc {
+  align-items: center;
+}
+
+.product__discount-price {
+  color: rgb(144, 152, 177);
+  font-family: Poppins;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 150%;
+  letter-spacing: 0.5px;
+  text-align: left;
+  text-decoration-line: line-through;
+  margin-left: 8px;
+}
+
+.product__price {
+  color: rgb(251, 113, 129);
+  font-family: Poppins;
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 150%;
+  letter-spacing: 0.5px;
+  text-align: left;
+}
+
+.products-menu {
+  display: flex;
+  flex-wrap: wrap;
+  //   justify-content: space-between;
+  margin-left: 95px;
+  margin-right: 89px;
+  gap: 34.17px;
+}
+
+.products__title {
+  color: rgb(34, 50, 99);
+  font-family: Poppins;
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 150%;
+  letter-spacing: 0.5px;
+  text-align: left;
+}

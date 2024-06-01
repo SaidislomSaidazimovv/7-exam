@@ -1,0 +1,85 @@
+.admin__btn {
+  color: rgb(255, 255, 255);
+  font-family: Nunito;
+  font-size: 24px;
+  font-weight: 800;
+  line-height: 33px;
+  letter-spacing: -2%;
+  text-align: center;
+  padding-top: 10px;
+  padding-bottom: 9px;
+  border-radius: 8px;
+  background: rgb(51, 160, 255);
+  border: none;
+  width: 338px;
+  margin-left: 90px;
+
+  &:active {
+    opacity: 0.6;
+  }
+}
+
+.admin__title {
+  color: rgb(0, 0, 0);
+  font-family: Poppins;
+  font-size: 40px;
+  font-weight: 500;
+  line-height: 60px;
+  letter-spacing: -2%;
+  text-align: left;
+  margin-bottom: 41px;
+  margin-left: 70px;
+}
+
+.admin__text {
+  font-family: Poppins;
+  font-size: 16px;
+  font-weight: 300;
+  line-height: 28.8px;
+  letter-spacing: 0.5px;
+  text-align: left;
+  margin-bottom: 26px;
+  width: 1255px;
+  margin-left: 90px;
+}
+
+.admin {
+  margin-bottom: 90px;
+}
+
+.contact__nav_link {
+  color: rgb(51, 160, 255);
+  font-family: Proxima Nova;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: -1px;
+  letter-spacing: 0%;
+  text-align: left;
+  margin-right: 8px;
+}
+
+.contact__nav_span {
+  margin-right: 9px;
+  color: rgb(193, 200, 206);
+  font-family: Proxima Nova;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: -1px;
+  letter-spacing: 0%;
+  text-align: left;
+}
+
+.contact__nav_text {
+  color: rgb(38, 38, 38);
+  font-family: Proxima Nova;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: -1px;
+  letter-spacing: 0%;
+  text-align: left;
+}
+
+.contact__nav_block {
+  text-align: center;
+  margin-bottom: 155px;
+}
